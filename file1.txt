@@ -5,3 +5,5 @@ add one changes
 add two changes
 
 made five changes
+
+changes in file1
